@@ -51,5 +51,5 @@ Rezultati pokazuju da sustav postiže iznimno stabilne performanse u uvjetima s 
 
 ## 👤 Autor
 * **Lara Lacić**
-* Fakultet elektrotehnike, računarstva i informacijskih tehnologija Osijek (FERIT)[cite: 4]
-* Sveučilišni diplomski studij Računarstvo[cite: 4]
+* Fakultet elektrotehnike, računarstva i informacijskih tehnologija Osijek (FERIT)
+* Sveučilišni diplomski studij Računarstvo
